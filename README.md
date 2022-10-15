@@ -20,6 +20,8 @@
 <a href="https://www.codechef.com/users/https:://code_shef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https:://code_shef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https:://hacker_rank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https:://hacker_rank" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https:://code_forces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https:://code_forces" height="30" width="40" /></a>
+  
+  
 <a href="https://www.leetcode.com/https:://leet_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https:://leet_code" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https:://hacker_earth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https:://hacker_earth" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https:://gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https:://gfg" height="30" width="40" /></a>
